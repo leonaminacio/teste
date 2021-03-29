@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(238, 238, 236);
+}
+
+.titulo-header{
+    background-color:rgb(112,128,144);
+}
+
+.titulo-header{
+    text-align: center;
+    font-size: 3rem;
+    height: 5rem;
+    margin-bottom: 1rem;
+    margin-top: 0rem;
+    color:rgb(238, 238, 236);
+}
+
+.nome-comida_fav{
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(112,128,144);
+}
+
+.nome-definicao{
+    text-align: center;
+    margin-top: 1rem;
+    font-size: large;
+}
+
+.definicao{
+    display: inline-block;
+    padding: 0;
+    width: 20%;
+
+}
+
+.footer{
+    text-align: center;
+    margin: 2rem;
+    
+    
+}
+
+.nome-ingredientes{
+    font-size: 2rem;
+    color: rgb(112,128,144);
+    margin: 1rem;
+}
+
+.lista-ingredientes{
+    text-align:center;
+    list-style:none;
+    font-size:large
+    
+
+
+}
+li{
+    list-style-type: none;
+    line-height: 2rem;
+    
+}
+
+.fundo-ingredientes{
+    background-color:rgb(112,128,144) ;
+}
+  
+
+
+
